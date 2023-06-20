@@ -8,4 +8,4 @@ nomeclaturas erradas
 
 mai$ = "mais";
 
-classe = "Python";
+class = "Python";
