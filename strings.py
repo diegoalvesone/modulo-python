@@ -43,3 +43,8 @@ print(palavras);
 print("Substituindo partes das strings: ");
 novaFrase = frase.replace("Mundo", "Python");
 print(novaFrase);
+
+#Convertendo para letras maiúsculas e minúsculas
+print("Convertendo para letras maiúsculas e minúsculas:");
+print("Maiúsculas: ", frase.upper());
+print("Minúsculas: ", frase.lower());
