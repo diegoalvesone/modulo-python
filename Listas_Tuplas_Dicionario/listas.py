@@ -29,7 +29,26 @@ print(listaConcatenada);
 listaRepetida = [0] * 4;
 print(listaRepetida);
 
-numeros  = ["a", "b", "c", "d"];
-sublista = numeros[1:4];
+letras  = ["a", "b", "c", "d"];
+sublista = letras[1:4];
 print(sublista);
+
+frutas = ["maça", "banana", "laranja"];
+frutas.append("morango");
+print(frutas);
+
+frutas.insert(1, "abacaxi");
+print(frutas);
+print();
+frutaRemovida = frutas.remove("banana");
+frutaRemovida = frutas.pop(2);
+print(frutas);
+print(frutaRemovida);
+
+frutas.sort();
+
+print("Embaralhado: ", frutas);
+
+
+
 
