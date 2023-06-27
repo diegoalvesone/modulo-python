@@ -73,7 +73,7 @@ print("Ordenando: ", frutas);
 from random import shuffle
 
 shuffle(frutas);
-print(frutas);
+print("Embaralhado: ",frutas);
 
 
 
