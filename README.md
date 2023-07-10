@@ -31,7 +31,7 @@ Nesta seção, discutiremos as diferenças entre programação procedural e prog
 ### 9. Testes e Debugs de código
 Por fim, abordaremos a importância dos testes e debugs no desenvolvimento de software. Você aprenderá a escrever testes unitários para verificar a funcionalidade correta do seu código e técnicas para depurar e corrigir erros.
 
-### 10. Exercicíos
+## Exercicíos
 Exercicío 1 (Tipos de dados: String e números): [Exercicío 1](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios.py)  
 Exercicío 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios-listas-tuplas-dicionarios.py)  
 
