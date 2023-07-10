@@ -59,9 +59,9 @@ informações: nome, idade e cidade. Utilize as chaves "nome",
 exiba o dicionário completo na tela.
 """
 aluno = {
-  "nome"  : "Diego",
-  "idade" : 31,
-  "cidade": "Poço Fundo"
+  'nome'  : 'Diego',
+  'idade' : 31,
+  'cidade': 'Poço Fundo'
 }
 print(aluno);
 print();
