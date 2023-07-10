@@ -60,4 +60,4 @@ Este repositório é distribuído sob a licença [MIT](LICENSE). Sinta-se à von
 
 ---
 
-Esperamos que este repositório seja uma fonte valiosa de conhecimento e apoie seu aprendizado em Python. Divirta-se explorando a linguagem e construindo coisas incríveis com ela! Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório.
+Esperamos que este repositório seja uma fonte valiosa de conhecimento e apoie seu aprendizado em Python. Divirta-se explorando a linguagem e construindo coisas incríveis com ela!
