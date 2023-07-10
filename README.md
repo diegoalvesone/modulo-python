@@ -34,6 +34,8 @@ Por fim, abordaremos a importância dos testes e debugs no desenvolvimento de so
 ## Exercicíos
 Exercicío 1 (Tipos de dados: String e números): [Exercicío 1](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios.py)  
 Exercicío 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios-listas-tuplas-dicionarios.py)  
+Exercicío 3 (Estruturas condicionais): [Exercicío 3]()  
+Exercicío 4 (Estruturas de repetição): [Exercicío 4]()  
 
 ## Como usar este repositório
 Este repositório é organizado em diferentes diretórios, cada um correspondendo a uma seção da ementa. Dentro de cada diretório, você encontrará arquivos de exemplo, tutoriais e exercícios práticos para fortalecer seu entendimento.
