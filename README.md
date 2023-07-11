@@ -32,10 +32,10 @@ Nesta seção, discutiremos as diferenças entre programação procedural e prog
 Por fim, abordaremos a importância dos testes e debugs no desenvolvimento de software. Você aprenderá a escrever testes unitários para verificar a funcionalidade correta do seu código e técnicas para depurar e corrigir erros.
 
 ## Exercicíos
-Exercício 1 (Tipos de dados: String e números): [Exercicío 1](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios.py)  
-Exercício 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicios-listas-tuplas-dicionarios.py)  
+Exercício 1 (Tipos de dados: String e números): [Exercicío 1](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicio1.py)  
+Exercício 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicio2.py)  
 Exercício 3 (Estruturas condicionais): [Exercicío 3](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicio3.py)  
-Exercício 4 (Estruturas de repetição): [Exercicío 4]()  
+Exercício 4 (Estruturas de repetição): [Exercicío 4](https://github.com/diegoalvesone/modulo-python/blob/main/Exercicios/exercicio4.py)  
 
 ## Como usar este repositório
 Este repositório é organizado em diferentes diretórios, cada um correspondendo a uma seção da ementa. Dentro de cada diretório, você encontrará arquivos de exemplo, tutoriais e exercícios práticos para fortalecer seu entendimento.
