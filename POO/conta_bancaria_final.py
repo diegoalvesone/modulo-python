@@ -14,7 +14,11 @@ class Conta:
     if valor <= self.saldo:
       self.saldo -= valor;
     else:
-      print("Saldo insuficiente!");
+      self.exibir_retorno()
+      
+  def exibir_retorno(self):
+    print(f"Saldo insuficiente, você possui {self.saldo} disponível para saque");
+  
   
   def exibir_informacoes(self):
     print(f"Conta: {self.numero}");
